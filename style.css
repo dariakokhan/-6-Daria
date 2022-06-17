@@ -1,0 +1,23 @@
+.card{
+    width: 600px;
+    height: 340px;
+    background-image: url('bg.jfif');
+    background-size: cover;
+    border-radius: 40px;
+    color: lightblue;
+    padding-top: 100px;
+    box-sizing: border-box;
+  font-family:  'Barlow', sans-serif;
+
+}
+
+
+.card-company{
+text-align: center;
+margin: 0;
+}
+
+.card-name{
+    text-align: center;
+}
+
